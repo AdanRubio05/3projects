@@ -25,3 +25,7 @@ body {
 .open {
     display: none ;
 }
+
+.active {
+    display: block ;
+}
