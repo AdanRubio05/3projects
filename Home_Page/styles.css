@@ -3,3 +3,18 @@
     padding: 0px ;
     box-sizing: border-box ;
 }
+
+h1 {
+    align-self: center ;
+    display: flex ;
+    justify-content: center ;
+    font-family: serif ;
+    color: rgb(255, 117, 24) ;
+}
+
+nav {
+    align-self: center ;
+    display: flex ;
+    justify-content: center ;
+    
+}
