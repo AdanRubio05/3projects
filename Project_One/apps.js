@@ -14,3 +14,6 @@ vampForm.addEventListener('click', () => {
         vampForm.classList.remove('active');
     }
 }) ;
+
+console.log('Listen to them! Children of the night, what music they make!') ;
+console.log('By Adan Rubio') ;
