@@ -11,5 +11,6 @@ batForm.addEventListener('click', () => {
 vampForm.addEventListener('click', () => {
     if(batForm.classList.contains('closed')) {
         batForm.classList.add('active'); 
+        vampForm.classList.remove('active');
     }
-})
+}) ;
