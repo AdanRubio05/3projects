@@ -21,3 +21,7 @@ body {
 .closed {
  display: none ;
 }
+
+.open {
+    display: none ;
+}
